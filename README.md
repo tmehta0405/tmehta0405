@@ -1,5 +1,5 @@
 # About Me:
-I'm Tirth, I'm a student at NJIT and I'm currently programming fullstack.
+I'm Tirth, I'm a freshman at NJIT and I'm currently programming fullstack with Django.
 
 
 ## Socials:
